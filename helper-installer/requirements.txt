@@ -1,0 +1,5 @@
+PySimpleGUI
+requests
+GPUtil
+pytest
+requests-mock
